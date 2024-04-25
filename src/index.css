@@ -1,0 +1,25 @@
+:root {
+  --background-color: #f4f7f3; 
+  --text-color: #5a3e36; 
+  --card-background: #ffe5b4;
+  --border-color: #a3b18a; 
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.nutrition-info {
+  background-color: var(--border-color); 
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: left;
+}
