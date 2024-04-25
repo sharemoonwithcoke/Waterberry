@@ -1,6 +1,6 @@
 # Waterberry
 
-# Waterberry
+
 
 ## Introduction
 Waterberry is a discreet aid platform designed specifically for victims of domestic violence. It allows users to seek help without raising suspicions, ensuring their safety and confidentiality. The website mimics an online shopping experience, enabling users to request help through routine activities.
